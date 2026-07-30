@@ -1,0 +1,28 @@
+Reverse Engineer the App
+	Reflection
+	Identity Multi Agents
+	Trace Routing
+	Identify Tools Used
+	Map the tasks to original problem Statement
+
+Application Development
+	Defining MVP of the problem statement
+	Collect Minimal Data
+	Choose Framework and Tools
+Guidance on Common Issues
+	hallucinations
+	cost
+	retrieval issues
+Guidance on AI testing methods
+Guidance on performance	
+
+Cover
+	From Scratch
+	Commercial APIs
+	Platforms
+
+Cover New Models
+	
+
+Cover New platforms
+	GitHub Codespaces
