@@ -26,3 +26,42 @@ Cover New Models
 
 Cover New platforms
 	GitHub Codespaces
+
+https://developer.microsoft.com/blog/designing-multi-agent-intelligence/
+https://www.youtube.com/watch?v=ow1we5PzK-o
+https://www.augmentcode.com/guides/multi-agent-ai-systems
+
+https://x.com/Alacritic_Super/status/2082820087149670765
+
+
+
+
+
+- LLM Layer – Reasoning, planning & decision-making
+- Prompt Layer – System prompts, templates, and guardrails
+- Memory Layer – Short-term, long-term, and conversation history
+- Knowledge Layer – RAG, vector databases, documents, and APIs
+- Tools Layer – Search, databases, email, calendars, code execution, and external services
+- Planning Layer – Task decomposition and multi-step execution
+- Agent Orchestration – Single agent or multi-agent workflows
+- State Management – Track progress, retries, checkpoints, and sessions
+- Human-in-the-Loop – Approval gates for critical actions
+- Observability – Logs, traces, latency, token usage, and costs
+- Evaluation – Accuracy, hallucinations, and regression testing
+- Security – Authentication, authorization, secrets, and prompt injection protection
+- Deployment – APIs, containers, Kubernetes, serverless or edge
+- Monitoring – Reliability, uptime, and automatic alerts
+- Feedback Loop – Collect user feedback and continuously improve prompts and workflows
+
+Popular stack:
+
+- Models: GPT, Claude, Gemini, Llama, Kimi 3
+- Frameworks: LangGraph, PydanticAI, AutoGen, CrewAI, OpenAI Agents SDK, n8n for workflow
+- Vector DBs: Qdrant, pgvector, Milvus
+- Serving: vLLM, SGLang, Ollama, LiteLLM
+- Observability: Langfuse, OpenTelemetry, Grafana
+
+The model is only one component.
+The real challenge is building agents that are reliable, observable, secure, and scalable.
+
+
