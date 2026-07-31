@@ -53,6 +53,9 @@ https://x.com/Alacritic_Super/status/2082820087149670765
 - Monitoring – Reliability, uptime, and automatic alerts
 - Feedback Loop – Collect user feedback and continuously improve prompts and workflows
 
+one production layer after tools and execution: observability, permissions, rollback, and human override.
+
+
 Popular stack:
 
 - Models: GPT, Claude, Gemini, Llama, Kimi 3
