@@ -64,6 +64,8 @@ Popular stack:
 - Serving: vLLM, SGLang, Ollama, LiteLLM
 - Observability: Langfuse, OpenTelemetry, Grafana
 
+https://pub.towardsai.net/building-production-ready-ai-agent-middleware-with-langgraph-enterprise-patterns-guardrails-2ed7ba5a8486
+
 The model is only one component.
 The real challenge is building agents that are reliable, observable, secure, and scalable.
 
