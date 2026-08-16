@@ -70,3 +70,14 @@ The model is only one component.
 The real challenge is building agents that are reliable, observable, secure, and scalable.
 
 
+Tools
+	Composio
+
+Orchestration
+	https://github.com/Untrivial-ai/agent-orchestrator
+
+Knowledge Layer
+	Reducer Engineering
+
+https://github.com/yashjainio/langgraph-youtube
+
