@@ -1,3 +1,12 @@
+ChatGPT uses Reinforcement Learning from Human Feedback (RLHF), where human reviewers shape how it responds.
+
+Gemini is a multimodal model family closely connected to Google’s ecosystem, including Search grounding and code execution in supported experiences. Google’s current Gemini prompting guidance says its latest models work best with direct, consistently structured prompts that clearly define the task, constraints, and output requirements..
+
+Claude, on the other hand, is shaped by Anthropic’s Constitutional AI principles, which emphasize safety, honesty, helpfulness, and adherence to clearly defined instructions. "That often produces careful, analytical responses that remain closely tied to the context and constraints provided.
+
+
+
+
 Include models
 Haiku 4.5 
 Sonnet 5.  
