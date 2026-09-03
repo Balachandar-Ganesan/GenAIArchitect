@@ -1,0 +1,54 @@
+vectorembedding techniques
+	sentence-transformers
+
+SEmantic
+efficiency
+accuracy
+
+Vector Embeddings
+	Dense..Valid values across the list
+	sparse..reasonably opposite
+
+	multivector.. Single or Multi
+
+	long context...BGE-M3
+		
+
+	word
+	sentence
+	document
+	others...
+
+Word
+	Word2Vec
+	Glove
+	FastText
+	
+
+Sentence
+	SkipThought
+	Universal Sentence Encoder(USE)
+
+Document
+	Doc2Vec
+	Paragraph
+
+
+Context Window
+	Token size
+		512
+		8192
+		4096
+	
+	Token Unit
+		Byte pair Encoding .. 
+		WordPiece
+		
+	Dimensionality
+	Vocabulary
+	Training Data
+	
+
+	MTEB Score
+
+OpenAI text-embedding-3-small, OpenAI text-embedding-3-large, Voyage-3-large, and NVIDIA NV-Embed-v2.
