@@ -1,0 +1,17 @@
+Q1: List every movie where Rajinikanth plays MULTIPLE physically distinct characters (e.g. Billa, Enthiran, Moondru Mugam, Kochadaiiyaan).
+A: Based on the provided context, here are all the movies where Rajinikanth plays multiple physically distinct characters:
+
+1. **Kochadaiiyaan**: Rajinikanth plays multiple physical roles, including Commander Kochadaiiyaan and his sons, Rana and Sena.
+2. **Enthiran**: Rajinikanth plays two distinct physical characters: the scientist Dr. Vaseegaran and the humanoid robot Chitti.
+3. **Billa**: Rajinikanth plays two distinct physical characters: the underworld don Billa and his village lookalike Rajappa. *(Note: This fits both categories because it has physically distinct characters AND one character impersonates the other.)*
+4. **Moondru Mugam**: Rajinikanth plays three distinct physical characters: the police officer Alex Pandian and his twin sons, Arun and John.
+5. **Netrikkan**: Rajinikanth portrays two distinct physical characters: the womanizing father Chakravarthi and his righteous son Santhosh.
+
+Q2: List every movie involving identity deception, disguises, or faked identities (e.g. Billa, Thillu Mullu, Baasha).
+A: Based on the provided context, here are all the movies involving identity deception, disguises, or faked identities:
+
+1. **Billa**: Fits both categories because it has physically distinct characters AND one character impersonates the other (Rajappa uses a fake identity by impersonating his lookalike, the deceased mafia don Billa, to infiltrate a crime syndicate).
+2. **Thillu Mullu**: Chandran invents and impersonates a fictitious twin brother named Indran to hide a lie from his boss.
+3. **Chandramukhi**: Dr. Saravanan adopts the fake identity of King Vettaiyan to psychologically heal Ganga.
+4. **Baasha**: Manikkam disguises his past as a dangerous mafia don by living under the peaceful identity of an auto-rickshaw driver.
+5. **Kochadaiiyaan**: Rana uses a disguise when returning to the kingdom to enter the military and earn the king's confidence.
