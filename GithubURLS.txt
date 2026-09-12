@@ -1,0 +1,8 @@
+https://github.com/nerdai/llm-agents-from-scratch
+https://github.com/shangrilar/ai-agent-from-scratch
+https://github.com/cxbxmxcx/GPT-Agents
+https://github.com/victordibia/designing-multiagent-systems
+https://github.com/PacktPublishing/Building-Complex-Multi-Agent-Systems-Using-Pattern-Prompting
+https://github.com/PacktPublishing/AI-Agents-in-Practice
+https://github.com/PacktPublishing/Building-Agentic-AI-Systems
+https://github.com/PacktPublishing/Modern-AI-Agents
