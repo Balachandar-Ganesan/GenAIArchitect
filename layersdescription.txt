@@ -1,0 +1,12 @@
+An LLM proxy layer is a piece of middleware that sits between your application and AI model providers to unify APIs, track costs, and manage routing.
+What an LLM Proxy Does
+• Unified API: Exposes a single, standard endpoint (often OpenAI-compatible) so you can switch between models from OpenAI, Anthropic, Gemini, and others without changing core application code.
+• Cost & FinOps Management: Tracks token consumption, sets budgets, and logs interactions centrally.
+• Smart Routing & Fallbacks: Automatically routes requests based on latency or cost, or falls back to a secondary provider if the primary one goes down.
+• Security & Governance: Masks internal API credentials, enforces role-based access control (RBAC), and filters inputs/outputs for prompt injection or data leaks.
+• Caching: Implements semantic caching to serve frequent requests instantly without calling the upstream model.
+Popular Tools & Architectures
+• Hosted and Open-Source Gateways: Tools like LiteLLM or Portkey function as production-ready proxy layers.
+• Deployment Patterns: Can be deployed as standard inline middleware, on edge networks (like Cloudflare Workers), or as a local sidecar.
+• Compare features in a production comparison of LLM Gateways.
+• Understand deployment trade-offs in The Architecture Behind LLM Proxies.
