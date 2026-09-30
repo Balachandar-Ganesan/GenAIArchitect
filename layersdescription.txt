@@ -10,3 +10,48 @@ Popular Tools & Architectures
 • Deployment Patterns: Can be deployed as standard inline middleware, on edge networks (like Cloudflare Workers), or as a local sidecar.
 • Compare features in a production comparison of LLM Gateways.
 • Understand deployment trade-offs in The Architecture Behind LLM Proxies.
+
+10 GitHub repositories to learn the Agentic AI concepts you need before 2027 👇
+
+1- Harness Engineering
+https://github.com/walkinglabs/awesome-harness-engineering
+
+2- Loop Engineering
+https://github.com/cobusgreyling/loop-engineering
+
+3- Context Engineering
+https://github.com/yzfly/awesome-context-engineering
+
+4- Tool Design & MCP
+https://github.com/modelcontextprotocol/servers
+
+5- Agent Memory
+https://github.com/mnemoverse/awesome-agent-memory
+
+6- Agent Orchestration
+https://github.com/vivy-yi/awesome-agent-orchestration
+
+7- AI Guardrails
+https://github.com/enguard-ai/awesome-ai-guardrails
+
+8- Agent Evals
+https://github.com/benchflow-ai/awesome-evals
+
+9- Human-in-the-Loop
+https://github.com/cloudflare/agents
+
+10- Agent Observability
+https://github.com/anhermon/awesome-agent-observability
+
+These cover the production side of agentic AI:
+
+→ Harness
+→ Loops
+→ Context
+→ Tools
+→ Memory
+→ Orchestration
+→ Guardrails
+→ Evals
+→ Human oversight
+→ Observability
