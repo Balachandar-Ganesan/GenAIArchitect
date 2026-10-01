@@ -11,6 +11,18 @@ Popular Tools & Architectures
 • Compare features in a production comparison of LLM Gateways.
 • Understand deployment trade-offs in The Architecture Behind LLM Proxies.
 
+
+• Accuracy
+• Relevance
+• Reasoning
+• Factuality
+• Hallucination
+• Safety
+• Consistency
+• Instruction following
+
+
+
 10 GitHub repositories to learn the Agentic AI concepts you need before 2027 👇
 
 1- Harness Engineering
