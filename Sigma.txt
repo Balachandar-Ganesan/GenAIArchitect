@@ -76,6 +76,18 @@ Tools
 Orchestration
 	https://github.com/Untrivial-ai/agent-orchestrator
 
+01 - AI Infrastructure: What Runs AI?
+Compute → GPU → Memory → Storage → Network → Kubernetes
+
+02 - LLM Inference: How Does AI Answer?
+Prompt → Tokens → Prefill → KV Cache → Decode → Stream
+
+03 - LLM Scaling: How Does AI Handle Traffic?
+Scale Up → Scale Out → Replicate → Balance → Batch → Autoscale
+
+04 - AI Production: How Do You Operate AI at Scale?
+Model → Deploy → Serve → Observe → Secure → Optimize
+
 Knowledge Layer
 	Reducer Engineering
 
