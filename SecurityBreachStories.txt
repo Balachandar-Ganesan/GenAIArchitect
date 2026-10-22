@@ -1,0 +1,32 @@
+
+A malicious release of LiteLLM on PyPI stole passwords and keys from machines, even if your code never used LiteLLM. 
+Here is how it worked...
+
+The attacker added one line to the build config: `data = "cook"`
+causing three extra files to be included in the package during the build. 
+GitHub repo did not contain this line, so the source code looked clean. 
+But published package was malicious.
+
+Python has a feature where a `.pth` file in `site-packages` can execute code every time Python starts. 
+The attacker added a `cook.pth` file containing a single line: `import cook`. 
+so it can run without being imported
+From that point on, almost any Python process on the machine could trigger the stealer: your app, pip, your editor, or your CI jobs.
+
+what it stole. 
+
+- SSH keys and shell history
+- AWS, Azure, GCP, k8s, and GitHub credentials
+- Claude Code, Cursor, and Codex Keys
+- Saved browser passwords
+- Environment variables
+- LLM API keys stored in a LiteLLM proxy database
+
+It encrypted everything so that only the attacker could decrypt it, then uploaded it to a `/healthcheck` URL, 
+making the traffic look like a routine health check.
+
+We cannot trust the source repository alone.
+give new releases time to be scrutinized before adopting them
+inspect the actual artifacts you install
+pin package versions (classic) with hashes
+
+Even auditing every line in a repository and still end up running malicious code.
