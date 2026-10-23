@@ -1,0 +1,13 @@
+Create these 6 files before you start vibe coding:
+
+• PRD.md: what you're building and for whom
+• ARCHITECTURE.md: stack, folders, data flow
+• DESIGN.md: colors, fonts, components, vibe
+• RULES.md: coding style and what the AI must never do
+• TASKS.md: small steps, one at a time
+• PROGRESS.md: what's done, what broke, what's next
+
+No files = the AI guesses.
+6 files = the AI follows your plan.
+
+10 minutes of writing saves 10 hours of fixing.
