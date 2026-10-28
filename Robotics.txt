@@ -1,0 +1,64 @@
+Projects
+	animal movement
+		https://github.com/JavierIH/kame32/tree/main
+		Kame32 is an open-source quadruped with 8 servos, 3D-printable parts & a custom PCB that keeps the wiring tidy.\
+		
+		https://github.com/dorianborian/sesame-robot/
+			An open and affordable mini quadruped robot based on ESP32.
+
+		https://www.instructables.com/MOSS-the-Litter-Picking-Rover
+			Different movement 
+	TinyNav
+		https://github.com/regularpooria/tinynav
+	
+Simulation
+	mujoco
+
+medium cost humanoids
+	https://phonebot.dev/
+
+Adavnced Humanoids
+	https://menlo.ai/asimov-1
+Advanced Arms
+	https://github.com/norma-core/norma-core/tree/main/hardware/elrobot
+Open Source 3D printed robots
+	https://github.com/AWROBOT/KameRobot
+
+
+
+Motion Capture System
+	https://github.com/jyjblrd/Low-Cost-Mocap
+
+
+Courses
+	https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo/?couponCode=KEEPLEARNING
+	NVIDIA Isaac Sim 101 - ROS2 & Robot Navigation
+	https://www.udemy.com/course/nvidia-isaac-sim-from-scratch-build-a-robot-prove-the-gpu/?couponCode=KEEPLEARNING
+	https://panav.gitbook.io/robotics-handbook/drones-rocketry-and-aviation/drones/drones
+
+Robotics companies
+	https://altersageinnovations.com/#contactus
+
+
+Robot Build from scratch
+	https://github.com/Hyperspawn/Dropbear
+		Developed by Hyperspawn and Point Blank, Dropbear is an open-source humanoid robot.
+
+Robot Manipulators
+	Build Custom GELLO
+	https://wuphilipp.github.io/gello_site/
+	https://github.com/wuphilipp/gello_software
+
+Advanced animal
+	https://github.com/stanfordroboticsclub/StanfordQuadruped
+Lab Simulations
+	https://ardchain.github.io/esp32-field-lab/
+
+
+Drone
+	https://github.com/songge8/CF-Drone
+
+open source heavy Drones
+	https://github.com/Arrow-air/project-caribou
+
+
