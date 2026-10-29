@@ -1,0 +1,26 @@
+Tools
+LLM provider
+	https://lm15.dev/
+Agent Training
+	https://github.com/OpenPipe/ART
+prompt caching
+  https://medium.com/@iam-abdulmoiz/prompt-caching-making-llms-fast-and-practical-cdf61cce7d42
+JEV
+	https://www.cmpnd.ai/blog/building-jev-programs-with-dspy.html
+Agents management
+	https://paperclip.ing/
+Agent Memory
+	https://github.com/TencentCloud/TencentDB-Agent-Memory
+Event-sourced graph runtime for durable and stateful agents
+		https://github.com/yoheinakajima/activegraph
+Self-hosted AI Agents for your whole team — on your infrastructure, your models, around the clock.
+https://github.com/willdady/platypus
+
+
+
+References
+	https://github.com/Sumanth077/Hands-On-AI-Engineering
+	RAG collection
+		https://x.com/_jaydeepkarale/status/2104550496552017991
+		https://x.com/oliviscusAI/status/2104534255636513268
+    https://github.com/FareedKhan-dev/agentic-knowledge-graph?source=post_page-----92010e609dfa-----------------------------------------#3-
