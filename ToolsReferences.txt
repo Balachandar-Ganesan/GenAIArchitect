@@ -24,3 +24,19 @@ References
 		https://x.com/_jaydeepkarale/status/2104550496552017991
 		https://x.com/oliviscusAI/status/2104534255636513268
     https://github.com/FareedKhan-dev/agentic-knowledge-graph?source=post_page-----92010e609dfa-----------------------------------------#3-
+LLM evaluation
+	https://x.com/suraj_sharma14/status/2108965792096170223
+
+
+https://github.com/jamwithai/production-agentic-rag-course/blob/main/compose.yml
+
+https://medium.com/@geekycodes/bm25-explained-how-search-engines-find-the-most-relevant-documents-2940536b2e4c
+
+packages
+https://machinelearningmastery.com/ai-agent-observability-logging-tracing-and-debugging-explained/
+https://github.com/traceloop/openllmetry
+https://github.com/confident-ai/deepeval
+
+Inference
+https://x.com/oliviscusAI/status/2108786434991923251
+Microsoft just changed the game They've open-sourced bitnet.cpp, a 1-bit LLM inference framework.
