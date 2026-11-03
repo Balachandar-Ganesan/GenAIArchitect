@@ -1,0 +1,12 @@
+Direct prompt injection
+Indirect prompt injection (poisoned documents, web content, email)
+Jailbreaking or guardrail bypass
+System prompt extraction
+tool and function-call abuse
+RAG or vector store data exfiltration
+Agent privilege escalation or excessive agency
+Training data or memory extraction
+Multimodal injection (image, audio, file)
+Recursive token shadowing
+Other
+None of these yet
