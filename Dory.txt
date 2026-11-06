@@ -1,0 +1,26 @@
+Normal transformers stack unique layers once each. Google's recurrent/recursive versions reuse the same layers in loops (or make each layer attend to its own prior outputs). 
+
+This adds effective depth and memory without extra parameters. A small model can "think" longer by looping more, matching or beating much larger ones while staying efficient for long context and local hardware. That's why sub-10B models just became far more viable.
+
+
+Nanbeige 4.2-3B (open, 22 layers ×2 loops = 44 effective depth, strong agentic results).
+
+NVIDIA Dory 1.0 4B (elastic 1-4+ loops at inference, same weights, punches above size on coding/agentic).
+
+Ouro 1.4B/2.6B (ByteDance, full stack looped ×4, matches much larger dense models).
+
+Huginn-3.5B (variable loops up to 64 for latent reasoning at test time).
+
+NVIDIA Dory completely changes how an LLM processes information by introducing a concept called "elastic" looped inference depth.
+To see how Dory differs, we can directly compare it to a standard LLM. Both models still take in vectors and emit vectors that become tokens one by one—but what happens inside the model's layers for each token is entirely different.
+
+The Core Difference: Assembly Line vs. Roundabout
+
+
+Feature	Regular LLM (e.g., Llama, GPT)	NVIDIA Dory
+Layer Path	Straight Assembly Line: Every vector goes through every layer exactly once.	
+The Roundabout: Vectors enter, loop through the middle layers multiple times, then exit.
+Compute per Token	Fixed: Trivial words (like "the") and complex math equations get the exact same brainpower.	
+Elastic / Variable: You can turn a "knob" to make the model think harder on difficult prompts.
+Brain Size vs. Depth	To get a deeper "thinking" depth, you must load a massive model with more unique weights (higher VRAM).	
+Keeps a tiny 4-billion parameter footprint but achieves the reasoning depth of a 32B+ model by recycling weights.
