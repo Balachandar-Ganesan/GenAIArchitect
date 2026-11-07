@@ -1,0 +1,24 @@
+
+Foreign Exchange: "De-Dollarisation & Geopolitical Sanction" Sandbox
+
+• What it does: Allows the bank to input a hypothetical hyper-specific scenario (e.g., "A sudden regional conflict cuts off three major clearing banks in Europe, causing a 15% drop in Euro liquidity"). The AI simulates how the bank's current cross-border currency pairs would interact, flagging cascade failures in secondary currencies.
+• Why it's fast to build: It uses pre-existing API data and static historical financial crisis datasets. It does not trade; it only outputs analysis and generates standard PDF risk reports.
+
+🪙 Gold Reserves: "Paper vs. Physical Ledger Mismatch" Stress Tester
+
+• What it does: Scans global news, customs data, and shipping anomalies to run "what-if" models on supply chain blockades. For example, if a major transit hub closes, the AI calculates how quickly the bank’s paper gold derivatives will detach from physical gold vault spot prices, providing a timeframe for the asset mismatch.
+• Why it's fast to build: It acts as an intelligent aggregator, parsing text-based customs documents and public logistics feeds that humans don't have time to manually cross-reference.
+
+₿ Bitcoin & Digital Assets: "Regulatory Crackdown & Protocol Fork" Simulator
+
+• What it does: Simulates rapid on-chain events, such as a major stablecoin losing its peg or a surprise regulatory ban in a specific European territory. The AI models how liquid capital would flee through different blockchain addresses, giving the bank a predictive map of where liquidity will dry up first.
+• Why it's fast to build: Public blockchain data is perfectly structured and freely available via RPC nodes. The AI simply analyzes historical wallet behaviors during past crypto crashes to predict future flows.
+
+⚠️ The Documented AI Risks (To Include in Bank Policy)
+
+Because this tool uses AI to simulate high-stakes outcomes, the system must print explicit warnings on every generated report regarding three unique AI failure modes:
+• 1. Hallucinated Macro-Correlations (The "Phantom Variable" Risk): Generative models can mistakenly link unrelated macroeconomic events (e.g., correlating a minor tech stock crash with physical gold demand) simply because they appeared in the same news cycle.
+	• Remediation: The AI must explicitly list its data assumptions at the top of every generated PDF.
+• 2. Historical Anchoring Bias: The AI cannot simulate a scenario it has never seen elements of before. If a black-swan event occurs that violates basic economic principles, the AI's predictions will default to standard, historical patterns, blinding the bank to truly unprecedented risks.
+	• Remediation: Include a mandatory "Chaos Factor" variable in the simulation prompt to force the AI to break normal economic rules.
+• 3. Prompt Injection of Malicious Directives: If an internal bad actor or an external data breach allows malicious text to feed into the simulation prompt, the AI could be manipulated into generating falsified risk reports that artificially inflate the perceived safety of a failing asset class.
