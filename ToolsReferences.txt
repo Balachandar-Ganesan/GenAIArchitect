@@ -46,3 +46,10 @@ projects
 https://github.com/manthan89-py/Multi-Agent-Query-Resolution
 https://github.com/ntg2208/production-ai-customer-support/tree/main
 
+GPU company
+UTHOS
+
+Memory
+Memorilla
+
+
