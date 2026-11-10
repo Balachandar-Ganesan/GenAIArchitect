@@ -52,4 +52,6 @@ UTHOS
 Memory
 Memorilla
 
+Guards
+Where it sits	Injection	PII / DLP	Output scan	Schema	Dialog flow	Latency	License / model	Effort
 
