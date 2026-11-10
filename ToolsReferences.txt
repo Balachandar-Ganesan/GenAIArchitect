@@ -59,3 +59,8 @@ Garak
 Microsoft.Extensions.AI.Evaluation 
 https://github.com/curiosity-ai/llm-guard
 
+Themes
+The B2B SaaS Clean Glassmorphism Theme
+The Neo-Brutalist / Cyber-Assistant Theme
+Modern Minimalist Dark Mode
+
